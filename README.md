@@ -14,12 +14,11 @@
 Piattaforma letteraria AI che genera **romanzi completi** in **5 lingue**:
 Italiano · English · Español · Deutsch · Français
 
-> *20+ generi · DeepSeek AI · Open Source · Next.js + Supabase*
+> *20+ generi · DeepSeek AI · Next.js + Supabase*
 
 | | |
 |---|---|
 | 🌐 **Sito** | [enkrateia.xyz](https://enkrateia.xyz) |
-| 💻 **Repo** | [github.com/hustler00-www/enkrateia](https://github.com/hustler00-www/enkrateia) |
 | 🎭 **Generi** | Fantasy, Horror, Sci-Fi, Romance, Noir, Storico, +20 |
 | 🛠️ **Stack** | Next.js 14 · Supabase · DeepSeek · Vercel |
 | 🆓 **Prezzo** | Gratuito con account |
