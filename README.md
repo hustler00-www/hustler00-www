@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Ciao, sono Hustler
 
-<!--
-**hustler00-www/hustler00-www** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://img.shields.io/badge/focus-AI%20%7C%20Full--Stack%20%7C%20Multi--lingua-4F0599" />
+  <img src="https://img.shields.io/badge/status-building-00FF88" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Progetto Principale
+
+### [📖 Enkrateia](https://enkrateia.xyz) — Generatore di Romanzi AI Multilingue
+
+Piattaforma letteraria AI che genera **romanzi completi** in **5 lingue**:
+Italiano · English · Español · Deutsch · Français
+
+> *20+ generi · DeepSeek AI · Open Source · Next.js + Supabase*
+
+| | |
+|---|---|
+| 🌐 **Sito** | [enkrateia.xyz](https://enkrateia.xyz) |
+| 💻 **Repo** | [github.com/hustler00-www/enkrateia](https://github.com/hustler00-www/enkrateia) |
+| 🎭 **Generi** | Fantasy, Horror, Sci-Fi, Romance, Noir, Storico, +20 |
+| 🛠️ **Stack** | Next.js 14 · Supabase · DeepSeek · Vercel |
+| 🆓 **Prezzo** | Gratuito con account |
+
+---
+
+### ✨ Altre Cose Su Cui Lavoro
+
+- 🔭 AI & Machine Learning
+- 🌐 Sviluppo multilingua
+- 📚 Strumenti per scrittori
+- 🎨 UI/UX design
+
+---
+
+<div align="center">
+  <i>Ἐγκράτεια — padronanza di sé, arte di creare.</i>
+  <br>
+  <a href="https://enkrateia.xyz">enkrateia.xyz</a>
+</div>
